@@ -3,7 +3,7 @@
 
 #------------------------------------------------------------------------------
 REF_DIR   = .
-SRC_DIR   = $(REF_DIR)/src
+SRC_DIR   = $(REF_DIR)
 INC_DIR   = $(REF_DIR)/include
 LIB_DIR   = $(REF_DIR)/lib
 OBJ_DIR   = $(REF_DIR)/build
